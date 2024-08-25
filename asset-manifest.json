@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/powerbi/static/css/main.0cc7d390.css",
+    "main.js": "/powerbi/static/js/main.bf18c8fd.js",
+    "static/js/453.f083c1a4.chunk.js": "/powerbi/static/js/453.f083c1a4.chunk.js",
+    "static/media/Frame.png": "/powerbi/static/media/Frame.158f320eccf0bb3d3f5b.png",
+    "index.html": "/powerbi/index.html",
+    "main.0cc7d390.css.map": "/powerbi/static/css/main.0cc7d390.css.map",
+    "main.bf18c8fd.js.map": "/powerbi/static/js/main.bf18c8fd.js.map",
+    "453.f083c1a4.chunk.js.map": "/powerbi/static/js/453.f083c1a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cc7d390.css",
+    "static/js/main.bf18c8fd.js"
+  ]
+}
